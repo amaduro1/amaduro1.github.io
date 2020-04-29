@@ -1,2 +1,2 @@
 # amaduro1.github.io
-Websccite
+Website
